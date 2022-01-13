@@ -12,7 +12,7 @@ body {
 }
 
 .bg1 {
-    background: url(../image/wallpaperim.jpg);
+    background: url(wallpaperim.jpg);
     width: 100%;
     min-height: 535px;
     background-repeat: repeat-x;
